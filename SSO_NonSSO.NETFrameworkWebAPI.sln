@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO_NonSSO.NETFrameworkWebAPI", "SSO_NonSSO.NETFrameworkWebAPI\SSO_NonSSO.NETFrameworkWebAPI.csproj", "{BFE35F2C-E3A1-452A-B316-CBD5F84F6360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE35F2C-E3A1-452A-B316-CBD5F84F6360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE35F2C-E3A1-452A-B316-CBD5F84F6360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE35F2C-E3A1-452A-B316-CBD5F84F6360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE35F2C-E3A1-452A-B316-CBD5F84F6360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {484F6FF8-E025-4D37-8FE2-FF69F36CE07C}
+	EndGlobalSection
+EndGlobal
